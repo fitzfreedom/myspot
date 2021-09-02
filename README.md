@@ -1,2 +1,0 @@
-# myspot
-Source Code
